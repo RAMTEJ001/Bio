@@ -1,10 +1,10 @@
 # Bio
 
-Hello World! 😄:
+Hello World! 👋😄
 
-My name is Ram and I am currently a Year 1 Computer Science Student at Nanyang Technological University.
+My name is Ram 🐏 and I am currently a Year 1 Computer Science 💻 Student at Nanyang Technological University.
 
-==Languages / Frameworks I've worked with== 
-- Python
-- C
+These are the languages that I have worked with:
+- Python 🐍
+- C 
 - HTML
